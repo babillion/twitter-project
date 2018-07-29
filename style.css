@@ -1,0 +1,67 @@
+.left-box {
+background-color: #1da1f2;
+display: flex;
+height: 100%;
+overflow: hidden
+ }
+right-box {
+    display: flex;
+    display:100%
+}
+
+
+.main-list{ 
+padding:35% 15%
+}
+
+
+.bird {
+position:relative;
+font-size: 1200px;
+top: -200px;
+left: 50px;
+opacity: 0.08
+
+}
+
+.main-list ul li {
+color:white;
+padding-bottom: 15%;
+font-weight: 600;
+list-style:none;
+font-size: 120%;
+}
+
+.main-list i {
+font-size: 180%;
+padding-right: 10px;
+font-display: wide;
+
+}
+
+.navbar{
+
+    position: static
+}
+
+
+.navbar {
+    margin: 0px 0px;
+}
+
+.footer {
+    position: fixed;
+    width:100%;
+    bottom:0;
+    right:0;
+    left:0;
+    
+}
+
+
+.footer a{
+    color:#aab8c2;
+    
+    font-size: 12px;
+    
+}
